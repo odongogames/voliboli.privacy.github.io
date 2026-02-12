@@ -1,11 +1,11 @@
-## 📄 Privacy Policy
+# 📄 Privacy Policy
 
 Last Updated: 12th February 2026
 
 Odongo Games ("we", "our", or "us") develops and publishes mobile games on Google Play.
 This Privacy Policy explains how we handle user information for our mobile game(s).
 
-# 1. No Data Collection
+## 1. No Data Collection
 
 We do not collect, store, process, or share any personal information or user data.
 
@@ -21,13 +21,13 @@ Our game:
 
 The game runs entirely offline.
 
-# 2. Children’s Privacy
+## 2. Children’s Privacy
 
 Our game is designed for children.
 We do not collect any personal information from children or any users of any age.
 Because we do not collect data, there is no personal information stored, processed, or shared.
 
-# 3. Third-Party Services
+## 3. Third-Party Services
 
 Our game does not integrate any third-party services such as:
 
@@ -38,15 +38,15 @@ Our game does not integrate any third-party services such as:
 
 The game operates entirely offline.
 
-# 4. Data Security
+## 4. Data Security
 
 Since we do not collect or store any user data, there is no personal data to protect or secure.
 
-# 5. Changes to This Privacy Policy
+## 5. Changes to This Privacy Policy
 
 We may update this Privacy Policy if necessary. Any updates will be reflected on this page with a revised "Last Updated" date.
 
-# 6. Contact Information
+## 6. Contact Information
 
 If you have any questions about this Privacy Policy, you may contact us:
 
